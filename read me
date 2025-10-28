@@ -22,3 +22,10 @@ yippieeeee
 there is. a doggy. however. im hhalf asleep
 puppers,,
 im actively coding too so suhahsf
+"echo "# workinprogressrn" >> README.md
+git init
+git add README.md
+git commit -m "workinprogress"
+git branch -M main
+git remote add origin https://github.com/theanomaliescollective/workinprogressrn.git
+git push -u origin main"
